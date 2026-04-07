@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SwastikGarg
-- 👀 I’m interested programming 
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SwastikGarg 
+- 💞️ I’m looking to collaborate on theoretical physics. 
+- 📫 How to reach me - swastik.bnl@gmail.com
 
 <!---
 SwastikGarg/SwastikGarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
